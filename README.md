@@ -21,7 +21,9 @@ This application uses MVVM architecture with the following components:
 
 ## Screenshots
 
-[Include screenshots here once the app is complete]
+<img width="357" alt="Screenshot 2025-04-27 at 9 08 09 PM" src="https://github.com/user-attachments/assets/4493347b-8732-47b7-acd8-0fde55f990d4" />
+<img width="357" alt="Screenshot 2025-04-27 at 9 08 01 PM" src="https://github.com/user-attachments/assets/9d1a6da4-200d-4687-a1da-f21070474d13" />
+
 
 ## Setup
 
